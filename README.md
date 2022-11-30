@@ -1,5 +1,8 @@
 # OMPASS Library v1.0 for Windows
 
+![image](https://user-images.githubusercontent.com/105415486/204689841-0aec508b-9f2e-42c1-a935-db42eb12e673.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/105415486/204175639-78635f83-d390-4742-b619-21757f576070.png)
 
